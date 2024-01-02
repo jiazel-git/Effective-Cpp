@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\EFFECTIVE-CPP.dir/objects.a
+D:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\EFFECTIVE-CPP.dir/objects.a @CMakeFiles\EFFECTIVE-CPP.dir\objects1.rsp
+D:\mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\EFFECTIVE-CPP.dir/objects.a -Wl,--no-whole-archive -o EFFECTIVE-CPP.exe -Wl,--out-implib,libEFFECTIVE-CPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EFFECTIVE-CPP.dir\linkLibs.rsp

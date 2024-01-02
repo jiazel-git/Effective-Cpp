@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/code/Effective-Cpp/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\g++.exe  @CMakeFiles/class.dir/includes_CXX.rsp -g -o CMakeFiles\\class.dir\\src\\main.cpp.obj -c E:\\code\\Effective-Cpp\\src\\main.cpp",
+  "file": "E:/code/Effective-Cpp/src/main.cpp",
+  "output": "CMakeFiles/class.dir/src/main.cpp.obj"
+}
+]

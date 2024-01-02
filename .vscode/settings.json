@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "errorLens.enabled": true,
+    "clang-format.assumeFilename": ""
+}
